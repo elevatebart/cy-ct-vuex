@@ -1,4 +1,4 @@
-# testing a Vuex powered component with Cypress component testing
+# Testing a Vuex powered component with Cypress component testing
 
 Check out the [Status component tests](src/components/Status.spec.js)
 
