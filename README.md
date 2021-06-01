@@ -1,4 +1,11 @@
-# cy-ct-vuex
+# testing a Vuex powered component with Cypress component testing
+
+Check out the [Status component tests](src/components/Status.spec.js)
+
+## Open cypress testing environement
+```
+yarn cypress open-ct
+```
 
 ## Project setup
 ```
